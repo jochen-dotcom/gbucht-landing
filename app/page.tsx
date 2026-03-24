@@ -27,8 +27,8 @@ export default function Home() {
         <h1 style={{fontSize:"2.4rem",fontWeight:800,lineHeight:1.1,marginBottom:8,background:"linear-gradient(135deg,#fff,#4ade80)",WebkitBackgroundClip:"text",WebkitTextFillColor:"transparent"}}>
           g'bucht.
         </h1>
-        <p style={{fontSize:"1.3rem",color:"#9ca3af",marginBottom:24,marginTop:0,fontWeight:500}}>
-          Rechnung raus. Geld rein. Passt.
+        <p style={{fontSize:"1.2rem",color:"#9ca3af",marginBottom:24,marginTop:0,fontWeight:500}}>
+          Vom Angebot bis zur Steuererklärung. g'bucht.
         </p>
 
         <p style={{fontSize:"1rem",color:"#6b7280",lineHeight:1.6,marginBottom:36}}>
